@@ -1,12 +1,11 @@
 # NLR-ABC
-Scripts to implement a model-based demographic inference for Solanum chilense to assess the support of three demographic models using a wide range prior
-parameter distributions for effective populations size (Ne), gene-flow and divergence times parametersusing Approximate Bayesian Computation approach and NLR data.
+Scripts to implement a model-based demographic inference for Solanum chilense to assess the support of three demographic models using a wide range prior parameter distributions for effective populations size (Ne), gene-flow and divergence times parameters using Approximate Bayesian Computation approach and NLR data.
 
 Model 1: independent divergence of the north, coastal and mountain groups from the central group.
 
-Model 2: same as the model 1 but the highland group diverges from the coastal group.
+Model 2: same as model 1 but the highland group diverges from the coastal group.
 
-Model 3: same as the model 1 but the coastal group diverges from the highland group.
+Model 3: same as model 1 but the coastal group diverges from the highland group.
 
 Divergence processes were set to occur from three different unsampled (i.e. ghost) populations.
 
