@@ -1,4 +1,4 @@
-## create a table of prior parameter values of effective population size, divergence time, and migration rate from log-uniform distribution
+## create a matrix of prior parameter values of effective population size, divergence time, and migration rate from log-uniform distribution
 
 library(KScorrect)
 
